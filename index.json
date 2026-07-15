@@ -1,0 +1,197 @@
+{
+  "library": "vocal-choir",
+  "displayName": "Vocal Choir (Real)",
+  "description": "Real recorded crowd/choir singing single sustained vowels near F. Stereo XY-AKG214 @ 96 kHz. Sourced from Freesound pack 42098 (GameSoundCon2024 Walla, by Shane Vincent / ShangusBurger, CC0-1.0).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/ShangusBurger/packs/42098/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/vocal-choir-opus-48",
+  "branch": "main",
+  "fileCount": 15,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/",
+  "files": [
+    {
+      "file": "choir_ahh_vowel_F_01.opus",
+      "name": "choir_ahh_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ahh_vowel_F_01.opus",
+      "size": 48560,
+      "freesoundId": 763909,
+      "duration": 7.6,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_ahh_vowel_F_02.opus",
+      "name": "choir_ahh_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ahh_vowel_F_02.opus",
+      "size": 51513,
+      "freesoundId": 763910,
+      "duration": 8.3,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_eh_vowel_F_01.opus",
+      "name": "choir_eh_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_eh_vowel_F_01.opus",
+      "size": 48205,
+      "freesoundId": 763911,
+      "duration": 7.3,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_eh_vowel_F_02.opus",
+      "name": "choir_eh_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_eh_vowel_F_02.opus",
+      "size": 51393,
+      "freesoundId": 763912,
+      "duration": 8.4,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_ih_vowel_F_01.opus",
+      "name": "choir_ih_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ih_vowel_F_01.opus",
+      "size": 31919,
+      "freesoundId": 763885,
+      "duration": 4.9,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_ih_vowel_F_02.opus",
+      "name": "choir_ih_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ih_vowel_F_02.opus",
+      "size": 46379,
+      "freesoundId": 763886,
+      "duration": 7.6,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_i_vowel_F_01.opus",
+      "name": "choir_i_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_i_vowel_F_01.opus",
+      "size": 36284,
+      "freesoundId": 763887,
+      "duration": 5.7,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_i_vowel_F_03.opus",
+      "name": "choir_i_vowel_F_03",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_i_vowel_F_03.opus",
+      "size": 42785,
+      "freesoundId": 763889,
+      "duration": 6.8,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_mmm_hummed_F.opus",
+      "name": "choir_mmm_hummed_F",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_mmm_hummed_F.opus",
+      "size": 51427,
+      "freesoundId": 763890,
+      "duration": 8.5,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_o_vowel_F_01.opus",
+      "name": "choir_o_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_o_vowel_F_01.opus",
+      "size": 48467,
+      "freesoundId": 763891,
+      "duration": 7.7,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_o_vowel_F_02.opus",
+      "name": "choir_o_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_o_vowel_F_02.opus",
+      "size": 53693,
+      "freesoundId": 763892,
+      "duration": 8.4,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_ooh_vowel_F_01.opus",
+      "name": "choir_ooh_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ooh_vowel_F_01.opus",
+      "size": 48604,
+      "freesoundId": 763893,
+      "duration": 7.6,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_ooh_vowel_F_02.opus",
+      "name": "choir_ooh_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_ooh_vowel_F_02.opus",
+      "size": 55547,
+      "freesoundId": 763894,
+      "duration": 9.0,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_uh_vowel_F_01.opus",
+      "name": "choir_uh_vowel_F_01",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_uh_vowel_F_01.opus",
+      "size": 49306,
+      "freesoundId": 763913,
+      "duration": 7.4,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    },
+    {
+      "file": "choir_uh_vowel_F_02.opus",
+      "name": "choir_uh_vowel_F_02",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-choir-opus-48/main/choir_uh_vowel_F_02.opus",
+      "size": 48774,
+      "freesoundId": 763914,
+      "duration": 7.9,
+      "rootNote": 65,
+      "license": "CC0-1.0",
+      "source": "Shane Vincent (Freesound: ShangusBurger, pack 42098)"
+    }
+  ],
+  "byNote": {
+    "65": [
+      "choir_ahh_vowel_F_01.opus",
+      "choir_ahh_vowel_F_02.opus",
+      "choir_eh_vowel_F_01.opus",
+      "choir_eh_vowel_F_02.opus",
+      "choir_ih_vowel_F_01.opus",
+      "choir_ih_vowel_F_02.opus",
+      "choir_i_vowel_F_01.opus",
+      "choir_i_vowel_F_03.opus",
+      "choir_mmm_hummed_F.opus",
+      "choir_o_vowel_F_01.opus",
+      "choir_o_vowel_F_02.opus",
+      "choir_ooh_vowel_F_01.opus",
+      "choir_ooh_vowel_F_02.opus",
+      "choir_uh_vowel_F_01.opus",
+      "choir_uh_vowel_F_02.opus"
+    ]
+  }
+}
